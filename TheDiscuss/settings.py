@@ -124,6 +124,8 @@ STATIC_URL = '/static/'
 
 MEDIA_ROOT = os.path.join(BASE_DIR, 'uploads')
 
+STATIC_ROOT = os.path.join(BASE_DIR, "static")
+
 MEDIA_URL = '/uploads/'
 
 PROJECT_NAME = 'The Discuss'
