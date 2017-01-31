@@ -5741,6 +5741,7 @@ button[type="submit"] .loading {
   text-align: center;
 }
 .speaker .photo-wrapper {
+  width: 300px;
   margin: 0 auto 20px;
   display: inline-block;
   max-width: 100%;
@@ -6990,18 +6991,7 @@ button[type="submit"] .loading {
 .bg1 {
   background-image: url("../img/backgrounds/mybg.jpg");
 }
-.bg2 {
-  background-image: url("../img/backgrounds/bg2.jpg");
-}
-.bg3 {
-  background-image: url("../img/backgrounds/bg3.jpg");
-}
-.bg4 {
-  background-image: url("../img/backgrounds/bg4.jpg");
-}
-.bg5 {
-  background-image: url("../img/backgrounds/bg5.jpg");
-}
+
 .bg1.overlay:before {
   opacity: 0.9;
 }

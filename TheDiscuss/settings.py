@@ -25,7 +25,7 @@ SECRET_KEY = 'we_x4uavn1wl63uux%@=h=8qe&g#du-uagygg8++35mnbrm^iy'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['192.168.43.116', 'localhost']
 
 
 # Application definition
@@ -128,11 +128,9 @@ MEDIA_URL = '/uploads/'
 
 PROJECT_NAME = 'The Discuss'
 
-PROJECT_ABOUT = 'Bla Bla Bla Bla'
+PROJECT_SHORT_DESC = 'The developer meet up for students by students.'
 
-PROJECT_SHORT_DESC = 'The developer meetup for students by students.'
-
-EVENT_DATE = "24-25 FEB"
+EVENT_DATE = "3-4 March"
 
 EVENT_VENUE = "AITI LAB"
 
