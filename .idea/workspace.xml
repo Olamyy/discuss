@@ -2,13 +2,197 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b9786e7-a558-4bec-8abe-731d5af1c93d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/event/migrations/0001_initial.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/event/migrations/0002_auto_20170130_1511.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/event/migrations/0003_auto_20170130_1655.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/event/migrations/0004_auto_20170131_0701.py" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/event/static/uploads/sponsors/flutter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/event/static/uploads/sponsors/fomplu.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/css/base.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/css/changelists.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/css/dashboard.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/css/fonts.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/css/forms.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/css/login.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/css/rtl.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/css/widgets.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/fonts/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/fonts/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/fonts/Roboto-Bold-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/fonts/Roboto-Light-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/fonts/Roboto-Regular-webfont.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/img/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/img/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/img/calendar-icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/img/gis/move_vertex_off.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/img/gis/move_vertex_on.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/img/icon-addlink.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/img/icon-alert.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/img/icon-calendar.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/img/icon-changelink.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/img/icon-clock.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/img/icon-deletelink.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/img/icon-no.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/img/icon-unknown-alt.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/img/icon-unknown.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/img/icon-yes.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/img/inline-delete.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/img/search.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/img/selector-icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/img/sorting-icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/img/tooltag-add.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/img/tooltag-arrowright.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/SelectBox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/SelectFilter2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/actions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/actions.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/admin/DateTimeShortcuts.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/admin/RelatedObjectLookups.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/calendar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/cancel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/change_form.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/collapse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/collapse.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/core.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/inlines.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/inlines.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/jquery.init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/popup_response.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/prepopulate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/prepopulate.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/prepopulate_init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/timeparse.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/urlify.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/vendor/jquery/LICENSE-JQUERY.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/vendor/jquery/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/vendor/jquery/jquery.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/vendor/xregexp/LICENSE-XREGEXP.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/vendor/xregexp/xregexp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/admin/js/vendor/xregexp/xregexp.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/css/custom-animations.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/css/fonts/glyphicons-halflings-regular-2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/css/fonts/glyphicons-halflings-regular-3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/css/fonts/glyphicons-halflings-regular-4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/css/fonts/glyphicons-halflings-regular.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/css/fonts/glyphicons-halflings-regulard41d.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/css/lib/animate.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/css/lib/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/css/lib/font-lineicons.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/css/lib/toastr.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/fonts/fontawesome-webfontd41d.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/fonts/fontawesome-webfonte0a5.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/fonts/fontawesome-webfonte0a5.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/fonts/fontawesome-webfonte0a5.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/fonts/fontawesome-webfonte0a5.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/fonts/fontawesome-webfonte0a5.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/fonts/line-icons.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/fonts/line-icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/fonts/line-icons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/fonts/line-icons.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/fonts/line-iconsd41d.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/20161022_024836.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/Dorcas.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/apple-touch-icon-114x114.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/apple-touch-icon-72x72.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/apple-touch-icon.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/arrow-select-24x11.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/autograph-143x105.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/background/controls_bg.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/backgrounds/anotherbg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/backgrounds/bg1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/backgrounds/bg2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/backgrounds/bg3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/backgrounds/bg4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/backgrounds/bg5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/backgrounds/mybg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/backgrounds/testbg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/content1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/content2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/favicon.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/gallery/footer-photo.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/gallery/gallery1-270x401.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/gallery/gallery1-thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/gallery/gallery1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/gallery/gallery10-thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/gallery/gallery10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/gallery/gallery11-thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/gallery/gallery11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/gallery/gallery12-thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/gallery/gallery12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/gallery/gallery2-thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/gallery/gallery2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/gallery/gallery3-thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/gallery/gallery3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/gallery/gallery4-thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/gallery/gallery4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/gallery/gallery5-thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/gallery/gallery5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/gallery/gallery6-thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/gallery/gallery6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/gallery/gallery7-thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/gallery/gallery7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/gallery/gallery8-thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/gallery/gallery8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/gallery/gallery9-thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/gallery/gallery9.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/gdg-oau.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/icon/yt_controls_40x40.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/icon/yt_play_big_56x82.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/imac-371x412.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/lekan.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/opetunde.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/perfect.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/phone1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/sam.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/sao.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/speakers/speaker1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/speakers/speaker2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/speakers/speaker3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/speakers/speaker4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/speakers/speaker5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/speakers/speaker6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/speakers/speaker7.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/speakers/speaker8.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/sponsors/sponsor-big-1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/sponsors/sponsor-big-2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/sponsors/sponsor-big-3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/sponsors/sponsor-big-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/sponsors/sponsor1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/sponsors/sponsor10.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/sponsors/sponsor2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/sponsors/sponsor3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/sponsors/sponsor4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/sponsors/sponsor5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/sponsors/sponsor6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/sponsors/sponsor7.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/sponsors/sponsor9.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/testimonials/client1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/testimonials/client2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/testimonials/client3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/testimonials/client4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/testimonials/client5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/testimonials/client6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/ventcamp_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/ventcamp_logo@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/img/victor.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/js/jquery-2.1.4.min68b3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/js/jquery.appear.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/js/jquery.bxslider.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/js/jquery.countTo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/js/jquery.countdown.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/js/jquery.plugin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/js/jquery.validate.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/js/jquery.waypoints.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/js/masonry.pkgd.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/js/modal-box.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/js/toastr.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/static/assets/js/ventcamp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/sponsors/back.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TheDiscuss/settings.py" afterPath="$PROJECT_DIR$/TheDiscuss/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/manage.py" afterPath="$PROJECT_DIR$/manage.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/event/admin.py" afterPath="$PROJECT_DIR$/event/admin.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/event/static/assets/js/ventcamp.js" afterPath="$PROJECT_DIR$/event/static/assets/js/ventcamp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/event/views.py" afterPath="$PROJECT_DIR$/event/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/TheDiscuss/staticfy/index.html" afterPath="$PROJECT_DIR$/templates/TheDiscuss/staticfy/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,6 +200,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/TheDiscuss$settings.coverage" NAME="settings Coverage Results" MODIFIED="1485870381417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TheDiscuss" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -27,6 +214,16 @@
     <option name="SHOW_TABLE_DETAILS" value="true" />
     <option name="SHOW_EMPTY_GROUPS" value="false" />
     <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <PATH>
+      <PATH_ELEMENT>
+        <option name="myItemId" />
+        <option name="myItemType" value="com.intellij.database.view.DatabaseStructure$Root" />
+      </PATH_ELEMENT>
+      <PATH_ELEMENT>
+        <option name="myItemId" value="identifier.sqlite" />
+        <option name="myItemType" value="com.intellij.database.view.DbNodeDescriptor" />
+      </PATH_ELEMENT>
+    </PATH>
     <PATH>
       <PATH_ELEMENT>
         <option name="myItemId" />
@@ -47,8 +244,8 @@
       <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TheDiscuss/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="421">
-              <caret line="138" column="0" lean-forward="true" selection-start-line="138" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
+            <state relative-caret-position="349">
+              <caret line="136" column="0" lean-forward="true" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -57,8 +254,8 @@
       <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/event/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="33" column="42" lean-forward="false" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
+            <state relative-caret-position="396">
+              <caret line="22" column="41" lean-forward="true" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -69,11 +266,11 @@
       <file leaf-file-name="ventcamp.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/event/static/assets/js/ventcamp.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="799">
-              <caret line="961" column="3" lean-forward="false" selection-start-line="961" selection-start-column="3" selection-end-line="961" selection-end-column="3" />
+            <state relative-caret-position="407">
+              <caret line="954" column="0" lean-forward="false" selection-start-line="954" selection-start-column="0" selection-end-line="954" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
-                <marker date="1485863630807" expanded="true" signature="29731:30349" ph="{...}" />
+                <element signature="e#29548#30166#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -82,8 +279,8 @@
       <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/event/admin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="288">
+              <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
               <folding>
                 <element signature="e#0#32#0" expanded="true" />
               </folding>
@@ -91,13 +288,24 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="email.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/event/email.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/event/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="29" column="27" lean-forward="false" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+            <state relative-caret-position="324">
+              <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#2004#2390#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -106,18 +314,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/TheDiscuss/staticfy/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="218" column="0" lean-forward="false" selection-start-line="218" selection-start-column="0" selection-end-line="218" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="manage.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/manage.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="14" column="27" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+            <state relative-caret-position="420">
+              <caret line="534" column="18" lean-forward="true" selection-start-line="534" selection-start-column="18" selection-end-line="534" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -136,7 +334,7 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/event/static/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
+            <state relative-caret-position="125838">
               <caret line="6991" column="49" lean-forward="false" selection-start-line="6991" selection-start-column="49" selection-end-line="6991" selection-end-column="49" />
               <folding />
             </state>
@@ -154,11 +352,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>Audito</find>
-      <find>colors</find>
-      <find>demo</find>
-      <find>Educa</find>
-      <find>sPEAKERs</find>
       <find>photo-wrapper</find>
       <find>Photo F</find>
       <find>Sam o</find>
@@ -184,6 +377,11 @@
       <find>myb</find>
       <find>news</find>
       <find>Day 1</find>
+      <find>STATI</find>
+      <find>select</find>
+      <find>htra</find>
+      <find>sponsor</find>
+      <find>STATICFILES_DIRS</find>
     </findStrings>
     <replaceStrings>
       <replace>{% static 'css/</replace>
@@ -201,14 +399,15 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/TheDiscuss/urls.py" />
         <option value="$PROJECT_DIR$/db.sqlite3" />
-        <option value="$PROJECT_DIR$/event/admin.py" />
         <option value="$PROJECT_DIR$/event/static/assets/css/style.css" />
         <option value="$PROJECT_DIR$/event/models.py" />
-        <option value="$PROJECT_DIR$/event/static/assets/js/ventcamp.js" />
         <option value="$PROJECT_DIR$/event/urls.py" />
+        <option value="$PROJECT_DIR$/manage.py" />
+        <option value="$PROJECT_DIR$/event/static/assets/js/ventcamp.js" />
         <option value="$PROJECT_DIR$/event/views.py" />
         <option value="$PROJECT_DIR$/templates/TheDiscuss/staticfy/index.html" />
-        <option value="$PROJECT_DIR$/manage.py" />
+        <option value="$PROJECT_DIR$/event/email.py" />
+        <option value="$PROJECT_DIR$/event/admin.py" />
         <option value="$PROJECT_DIR$/TheDiscuss/settings.py" />
       </list>
     </option>
@@ -220,10 +419,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1" />
-    <option name="y" value="52" />
-    <option name="width" value="681" />
-    <option name="height" value="676" />
+    <option name="y" value="24" />
+    <option name="width" value="1366" />
+    <option name="height" value="705" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -240,8 +438,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -264,12 +460,14 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="uploads" />
+              <option name="myItemId" value="event" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -279,13 +477,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
-    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="DDL Data Source&#10;Sybase (jTds)&#10;MySQL" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="Sqlite (Xerial)&#10;DDL Data Source&#10;Sybase (jTds)&#10;MySQL" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/event/static" />
-      <recent name="$PROJECT_DIR$/templates/TheDiscuss" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/event/static/assets/img/backgrounds" />
       <recent name="$PROJECT_DIR$/event/static/assets/img" />
@@ -293,8 +487,33 @@
       <recent name="$PROJECT_DIR$/event/static" />
       <recent name="$PROJECT_DIR$/templates/TheDiscuss" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/event/static" />
+      <recent name="$PROJECT_DIR$/event" />
+      <recent name="$PROJECT_DIR$/static/uploads/sponsors" />
+      <recent name="$PROJECT_DIR$/uploads/sponsors" />
+      <recent name="$PROJECT_DIR$/templates/TheDiscuss" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.settings">
+    <configuration default="false" name="settings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TheDiscuss" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="TheDiscuss" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TheDiscuss/settings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -532,6 +751,14 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.settings" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.settings" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -547,29 +774,29 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="52" width="681" height="676" extended-state="4" />
+    <frame x="0" y="24" width="1366" height="705" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.64992154" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="manage.py@TheDiscuss" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8917526" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4599018" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19742814" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="manage.py@TheDiscuss" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.83306056" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.9787234" sideWeight="0.4969743" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -585,58 +812,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/event/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TheDiscuss/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="20" column="30" lean-forward="false" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
-          <folding>
-            <element signature="e#642#683#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/event/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="22" lean-forward="false" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/event/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/thediscus/lib/python3.5/site-packages/django/template/backends/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/thediscus/lib/python3.5/site-packages/django/template/backends/jinja2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/thediscus/lib/python3.5/site-packages/django/template/backends/django.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -754,9 +929,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding>
-            <element signature="e#642#683#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -815,81 +987,15 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/event/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/event/static/assets/img/backgrounds/mybg.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/event/static/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="6991" column="49" lean-forward="false" selection-start-line="6991" selection-start-column="49" selection-end-line="6991" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/event/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="33" column="42" lean-forward="false" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/event/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/event/static/assets/js/ventcamp.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
-          <caret line="961" column="3" lean-forward="false" selection-start-line="961" selection-start-column="3" selection-end-line="961" selection-end-column="3" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <marker date="1485863630807" expanded="true" signature="29731:30349" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/event/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="29" column="27" lean-forward="false" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/TheDiscuss/staticfy/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="218" column="0" lean-forward="false" selection-start-line="218" selection-start-column="0" selection-end-line="218" selection-end-column="0" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TheDiscuss/wsgi.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -901,10 +1007,118 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/event/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/event/static/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125838">
+          <caret line="6991" column="49" lean-forward="false" selection-start-line="6991" selection-start-column="49" selection-end-line="6991" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/admin/css/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/event/static/assets/js/ventcamp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="954" column="0" lean-forward="false" selection-start-line="954" selection-start-column="0" selection-end-line="954" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#29548#30166#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/uploads/sponsors/back.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file:///usr/lib/python3.5/os.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="306" column="68" lean-forward="false" selection-start-line="306" selection-start-column="68" selection-end-line="306" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/02415a91-23e6-4fcd-8bd3-f99798b3f340/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/event/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#2004#2390#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/event/static/uploads/sponsors/flutter.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/TheDiscuss/staticfy/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="534" column="18" lean-forward="true" selection-start-line="534" selection-start-column="18" selection-end-line="534" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/event/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="41" lean-forward="true" selection-start-line="22" selection-start-column="41" selection-end-line="22" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/event/email.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/event/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/TheDiscuss/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
-          <caret line="138" column="0" lean-forward="true" selection-start-line="138" selection-start-column="0" selection-end-line="138" selection-end-column="0" />
+        <state relative-caret-position="349">
+          <caret line="136" column="0" lean-forward="true" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
           <folding />
         </state>
       </provider>

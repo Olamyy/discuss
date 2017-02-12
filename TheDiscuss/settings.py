@@ -121,7 +121,6 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-
 MEDIA_ROOT = os.path.join(BASE_DIR, 'uploads')
 
 STATIC_ROOT = os.path.join(BASE_DIR, "static")
@@ -135,6 +134,7 @@ PROJECT_SHORT_DESC = 'The developer meet up for students by students.'
 EVENT_DATE = "3-4 March"
 
 EVENT_VENUE = "AITI LAB"
+
 
 
 
